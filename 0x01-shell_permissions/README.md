@@ -1,1 +1,1 @@
-execute permission to the owner of the file
+permission to the owner and the group
