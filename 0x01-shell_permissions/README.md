@@ -1,1 +1,1 @@
-Bond permissin
+sets the mode of the file
